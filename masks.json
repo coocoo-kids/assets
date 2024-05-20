@@ -3,10 +3,10 @@
     "filename": "assets/pages/0.jpg",
     "name": null,
     "char": {
-      "top": 1225,
-      "left": 291,
-      "bottom": 1607,
-      "right": 675
+      "top": 1140,
+      "left": 228,
+      "bottom": 1634,
+      "right": 723
     }
   },
   {
@@ -18,10 +18,10 @@
       "right": 1183
     },
     "char": {
-      "top": 694,
-      "left": 989,
-      "bottom": 1725,
-      "right": 2017
+      "top": 864,
+      "left": 1106,
+      "bottom": 1736,
+      "right": 1979
     }
   },
   {
@@ -33,10 +33,10 @@
       "right": 692
     },
     "char": {
-      "top": 896,
-      "left": 732,
-      "bottom": 1503,
-      "right": 1340
+      "top": 830,
+      "left": 659,
+      "bottom": 1477,
+      "right": 1307
     }
   },
   {
@@ -44,29 +44,29 @@
     "name": null,
     "char": {
       "top": 1285,
-      "left": 348,
+      "left": 288,
       "bottom": 1733,
-      "right": 798
+      "right": 736
     }
   },
   {
     "filename": "assets/pages/4.jpg",
     "name": null,
     "char": {
-      "top": 1277,
-      "left": 1085,
+      "top": 1269,
+      "left": 1083,
       "bottom": 1521,
-      "right": 1334
+      "right": 1336
     }
   },
   {
     "filename": "assets/pages/5.jpg",
     "name": null,
     "char": {
-      "top": 1044,
-      "left": 1137,
+      "top": 1034,
+      "left": 1120,
       "bottom": 1288,
-      "right": 1386
+      "right": 1374
     }
   },
   {
@@ -78,30 +78,30 @@
       "right": 657
     },
     "char": {
-      "top": 678,
-      "left": 1276,
-      "bottom": 923,
-      "right": 1525
+      "top": 663,
+      "left": 1290,
+      "bottom": 917,
+      "right": 1544
     }
   },
   {
     "filename": "assets/pages/7.jpg",
     "name": null,
     "char": {
-      "top": 1876,
-      "left": 1286,
-      "bottom": 2120,
-      "right": 1535
+      "top": 1890,
+      "left": 1278,
+      "bottom": 2144,
+      "right": 1532
     }
   },
   {
     "filename": "assets/pages/8.jpg",
     "name": null,
     "char": {
-      "top": 1625,
-      "left": 1432,
+      "top": 1616,
+      "left": 1266,
       "bottom": 1869,
-      "right": 1681
+      "right": 1520
     }
   },
   {
@@ -109,19 +109,19 @@
     "name": null,
     "char": {
       "top": 1280,
-      "left": 1397,
-      "bottom": 1524,
-      "right": 1646
+      "left": 1393,
+      "bottom": 1534,
+      "right": 1647
     }
   },
   {
     "filename": "assets/pages/10.jpg",
     "name": null,
     "char": {
-      "top": 967,
-      "left": 1911,
-      "bottom": 1211,
-      "right": 2160
+      "top": 957,
+      "left": 1908,
+      "bottom": 1214,
+      "right": 2163
     }
   },
   {
@@ -133,10 +133,10 @@
       "right": 610
     },
     "char": {
-      "top": 896,
-      "left": 1016,
-      "bottom": 1616,
-      "right": 1735
+      "top": 936,
+      "left": 972,
+      "bottom": 1610,
+      "right": 1646
     }
   },
   {
@@ -148,9 +148,9 @@
       "right": 721
     },
     "char": {
-      "top": 761,
-      "left": 571,
-      "bottom": 1224,
+      "top": 746,
+      "left": 566,
+      "bottom": 1225,
       "right": 1034
     }
   },
@@ -158,10 +158,10 @@
     "filename": "assets/pages/13.jpg",
     "name": null,
     "char": {
-      "top": 1845,
-      "left": 1012,
-      "bottom": 2090,
-      "right": 1261
+      "top": 1763,
+      "left": 1000,
+      "bottom": 2014,
+      "right": 1251
     }
   }
 ]
